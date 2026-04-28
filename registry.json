@@ -1,1 +1,10 @@
-{}
+{
+    "plugins": [
+        {
+            "name": "web-panel",
+            "version": "1.0.0",
+            "description": "Web-based admin dashboard for managing the bot through a browser.",
+            "author": "Whiteout Project"
+        }
+    ]
+}
