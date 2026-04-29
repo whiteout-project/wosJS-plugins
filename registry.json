@@ -2,7 +2,7 @@
     "plugins": [
         {
             "name": "web-panel",
-            "version": "1.1.4",
+            "version": "1.1.5",
             "description": "Web-based admin dashboard for managing the bot through a browser.",
             "author": "wosland"
         }
