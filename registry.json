@@ -2,9 +2,23 @@
     "plugins": [
         {
             "name": "web-panel",
-            "version": "1.1.21",
+            "version": "1.1.22",
             "description": "Web-based dashboard for managing the bot through a browser.",
-            "author": "wosland"
+            "author": "wosland",
+            "sha256": "ffa4221e299f82f4f80be70be40d2fdcda6efa5241ac8e036997844959154561",
+            "size": 24111898
+        },
+        {
+            "name": "player-sync",
+            "version": "1.0.0",
+            "description": "Sync player profiles through your own API connection and import alliance rosters from a member ID.",
+            "author": "wosland",
+            "engines": {
+                "bot": ">=1.0.53",
+                "node": ">=22.0.0"
+            },
+            "sha256": "72aaa98f91736f55372931ceb26880088151a3150d8ded4c3e627dc0a09bc92c",
+            "size": 42169
         }
     ]
 }
