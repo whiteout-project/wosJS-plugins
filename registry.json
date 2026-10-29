@@ -2,11 +2,23 @@
     "plugins": [
         {
             "name": "web-panel",
-            "version": "1.1.24",
+            "version": "1.1.25",
             "description": "Web-based dashboard for managing the bot through a browser.",
             "author": "wosland",
-            "sha256": "ad7b29e25dd742a44ea79245df4aa7547249f4623aa25323c460e8c47263625a",
-            "size": 24116965
+            "releaseNotes": {
+                "en": {
+                    "asset": "web-panel-v1.1.25-release_en.md",
+                    "size": 602,
+                    "sha256": "39b0d69ceba7e8423cd29e3c48a8f58e4dfe09d5218509a0cc6491ea61d2e0eb"
+                },
+                "fr": {
+                    "asset": "web-panel-v1.1.25-release_fr.md",
+                    "size": 812,
+                    "sha256": "a06a33d2c35442fc825a0818f993d6d321628fe10ae545b9eada01c09575f102"
+                }
+            },
+            "sha256": "b9d1a1e9f72212d4e882e465d69d3a039e66c1fd9ae53b75c357f33b8e1dc304",
+            "size": 24121467
         },
         {
             "name": "player-sync",
